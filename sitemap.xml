@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://leiceco.us.ci/tags/index.html</loc>
+    <loc>https://leiceco.us.ci/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://leiceco.us.ci/box/animation/index.html</loc>
+    <loc>https://leiceco.us.ci/tags/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -65,34 +65,7 @@
   </url>
   
   <url>
-    <loc>https://leiceco.us.ci/life/games/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://leiceco.us.ci/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://leiceco.us.ci/life/music/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://leiceco.us.ci/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -110,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://leiceco.us.ci/personal/bb/index.html</loc>
+    <loc>https://leiceco.us.ci/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -120,6 +93,33 @@
   
   <url>
     <loc>https://leiceco.us.ci/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://leiceco.us.ci/life/games/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://leiceco.us.ci/life/music/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://leiceco.us.ci/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -148,7 +148,7 @@
 
   <url>
     <loc>https://leiceco.us.ci/</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-04-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
